@@ -9,7 +9,7 @@ class GymTrainerAgentAdapter(AgentAdapter):
         self.agent = GymTrainerAgent()
 
     def get_answer(self, prompt, user_info=None):
-        return self.agent.get_answer(prompt, user_info)
+        return self.agent.get_answer(prompt, user_info)  # type: ignore
 
     def reset_chat_history(self):
         self.agent.reset_chat_history()
