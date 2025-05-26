@@ -2,6 +2,8 @@
 
 A versatile AI assistant platform built with LangChain and Streamlit, featuring specialized agents for different domains.
 
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1200/1*DG-nqaHO-Gqj4XN_3smu1g.png"></a>
+
 ## Overview
 
 This project demonstrates the implementation of multiple AI agents using the LangChain framework. Each agent is specialized for a specific domain and can maintain contextual conversations with users. The application is built with a Streamlit interface for easy interaction.
