@@ -62,7 +62,7 @@ The project follows a modular architecture with adapter pattern implementation:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/langchain-agents.git
+git clone https://github.com/jdev-king/langchain-agents.git
 cd langchain-agents
 ```
 
